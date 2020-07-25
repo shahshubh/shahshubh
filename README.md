@@ -1,4 +1,4 @@
-![Intro](intro.gif)
+![Intro](https://raw.githubusercontent.com/shahshubh/shahshubh/master/intro.gif)
 
 
 <p align="center">
