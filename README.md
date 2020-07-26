@@ -1,4 +1,4 @@
-![Intro](https://raw.githubusercontent.com/shahshubh/shahshubh/assets/intro.gif)
+![Intro](https://raw.githubusercontent.com/shahshubh/shahshubh/master/assets/intro.gif)
 
 
 <p align="center">
@@ -16,7 +16,7 @@
 	JavaScript · ReactJS · NodeJS · Express · MongoDB · React Native
 </p> -->
 
-### <img src="https://raw.githubusercontent.com/shahshubh/shahshubh/assets/hi.gif" width="29px"> Hi there 
+### <img src="https://raw.githubusercontent.com/shahshubh/shahshubh/master/assets/hi.gif" width="29px"> Hi there 
 I am a third year student in Computer Science and Engineering (CSE) who loves to transform ideas into reality using code.
 
 
