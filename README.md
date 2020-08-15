@@ -11,8 +11,7 @@
 	<a href="https://shahshubh.github.io/"><img src="https://img.shields.io/badge/-Portfolio%20Website-%233781da?&style=for-the-badge" alt="Portfolio" /></a>
     <!-- <a href="mailto:shahshubh1010@gmail.com"><img src="https://img.shields.io/badge/-shahshubh1010@gmail.com-c14438?
 	style=flat-square&logo=Gmail&logoColor=white&link=mailto:shahshubh1010@gmail.com" alt="Gmail" /></a> -->
-	<a href="mailto:shahshubh1010@gmail.com"><img src="https://img.shields.io/badge/-shahshubh1010@gmail.com-c14438?
-	style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
+	<a href="mailto:shahshubh1010@gmail.com"><img src="https://img.shields.io/badge/-shahshubh1010@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
 	
 </p>
 <!-- 
