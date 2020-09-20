@@ -31,8 +31,8 @@ I am a third year student in Computer Science and Engineering (CSE) who loves to
 - 🔭 I’m currently working on ReactJS and React Native.
 - 🌱 I’m currently learning competitive programming and AngularJS.
 - ⚡ Available for Freelance projects/internship opportunities.
-<!-- - 👯 We can connect on <a href="https://www.chess.com/member/shahshubh1">Chess.com</a>♟ to play some games. -->
 - 😄 Pronouns: He/Him 
+<!-- - 👯 We can connect on <a href="https://www.chess.com/member/shahshubh1">Chess.com</a>♟ to play some games. -->
 
 
 ### Spotify Playing 🎧
