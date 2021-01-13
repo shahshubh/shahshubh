@@ -29,7 +29,7 @@ I am a third year student in Computer Science and Engineering (CSE) who loves to
 
 
 - 🔭 I’m currently working on ReactJS and React Native.
-- 🌱 I’m currently learning competitive programming and AngularJS.
+- 🌱 I’m currently learning competitive programming.
 - ⚡ Available for Freelance projects/internship opportunities.
 - 😄 Pronouns: He/Him 
 <!-- - 👯 We can connect on <a href="https://www.chess.com/member/shahshubh1">Chess.com</a>♟ to play some games. -->
@@ -47,7 +47,10 @@ I am a third year student in Computer Science and Engineering (CSE) who loves to
   <img src="https://github-readme-stats.vercel.app/api?username=shahshubh&hide=prs&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
 </details> -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=shahshubh&hide=prs&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=shahshubh&hide=prs&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahshubh&theme=dark" />
+
 
 <!-- <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=shahshubh&hide=prs&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
@@ -63,12 +66,6 @@ I am a third year student in Computer Science and Engineering (CSE) who loves to
 	<a href="https://shahshubh.github.io/"><img src="https://img.shields.io/badge/-Portfolio%20Website-%233781da" alt="Portfolio" /></a>
     <a href="mailto:shahshubh1010@gmail.com"><img src="https://img.shields.io/badge/-shahshubh1010@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shahshubh1010@gmail.com" alt="Gmail" /></a>
     
-</p> -->
-
-
-
-<!-- <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=shahshubh&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
 </p> -->
 
 
