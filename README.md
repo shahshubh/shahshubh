@@ -17,10 +17,10 @@
 
 
 ### <img src="https://raw.githubusercontent.com/shahshubh/shahshubh/master/assets/Hi.gif" width="29px"> Hi there 
-I am a third year student in Computer Science and Engineering (CSE) who loves to transform ideas into reality using code.
+I am a final year student in Computer Science and Engineering (CSE) who loves to transform ideas into reality using code.
 
 
-- 🔭 I’m currently working on Flutter.
+- 🔭 I’m currently working on Angular.
 - 🌱 I’m currently learning competitive programming.
 - ⚡ Available for Freelance projects/internship opportunities.
 - 😄 Pronouns: He/Him 
