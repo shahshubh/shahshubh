@@ -20,7 +20,7 @@
 I am a final year student in Computer Science and Engineering (CSE) who loves to transform ideas into reality using code.
 
 
-- 🔭 I’m currently working on Angular.
+- 🔭 I’m currently working on [yBully](https://github.com/yBullyy).
 - 🌱 I’m currently learning competitive programming.
 - ⚡ Available for Freelance projects/internship opportunities.
 - 😄 Pronouns: He/Him 
