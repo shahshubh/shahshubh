@@ -7,7 +7,7 @@
 	<a href="https://www.linkedin.com/in/shubh-shah-2326081a3/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 	<!-- <a href="https://www.instagram.com/shah_shubh_/"><img src="https://img.shields.io/badge/-Instagram-dd2a7b?
 	logo=instagram&logoColor=white&link=https://www.instagram.com/shah_shubh_/" alt="Instagram" /></a> -->
-	<a href="https://www.instagram.com/shah_shubh_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<!-- 	<a href="https://www.instagram.com/shah_shubh_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> -->
 	<a href="https://shahshubh.github.io/"><img src="https://img.shields.io/badge/-Portfolio%20Website-%233781da?&style=for-the-badge" alt="Portfolio" /></a>
     <!-- <a href="mailto:shahshubh1010@gmail.com"><img src="https://img.shields.io/badge/-shahshubh1010@gmail.com-c14438?
 	style=flat-square&logo=Gmail&logoColor=white&link=mailto:shahshubh1010@gmail.com" alt="Gmail" /></a> -->
