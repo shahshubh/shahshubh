@@ -16,7 +16,7 @@
 </p>
 
 
-### <img src="https://raw.githubusercontent.com/shahshubh/shahshubh/master/assets/Hi.gif" width="29px"> Hi there 
+### <img src="https://raw.githubusercontent.com/shahshubh/shahshubh/master/assets/Hi.gif" width="29"> Hi there 
 I am a final year student in Computer Science and Engineering (CSE) who loves to transform ideas into reality using code.
 
 
