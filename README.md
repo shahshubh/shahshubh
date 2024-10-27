@@ -20,18 +20,19 @@
 I am a final year student in Computer Science and Engineering (CSE) who loves to transform ideas into reality using code.
 
 
-- 🔭 I’m currently working on [yBully](https://github.com/yBullyy).
-- 🌱 I’m currently learning competitive programming.
-- ⚡ Available for Freelance projects/internship opportunities.
+<!--- 🔭 I’m currently working on [yBully](https://github.com/yBullyy). -->
+<!--- 🌱 I’m currently learning competitive programming.-->
+- ⚡ Available for freelance work
 - 😄 Pronouns: He/Him 
 
 
-### Spotify Playing 🎧
+<!--### Spotify Playing 🎧
 [<img src="https://novatorem-chi.vercel.app/api/spotify-playing" alt="Shubh Spotify Playing" width="350" />](https://open.spotify.com/user/1avm481k8o6k84i73988n34b7?si=iuYsBSQURlSjXBgtfFXyEQ)
+-->
 
----
+<!-- --- -->
 
-<br />
+<!-- <br /> -->
 
 ![](https://hit.yhype.me/github/profile?user_id=46997599)
 
