@@ -17,7 +17,7 @@
 
 
 ### <img src="https://raw.githubusercontent.com/shahshubh/shahshubh/master/assets/Hi.gif" width="29"> Hi there 
-I am a final year student in Computer Science and Engineering (CSE) who loves to transform ideas into reality using code.
+I am a **Software Engineer** passionate about building clean, scalable and efficient solutions.
 
 
 <!--- 🔭 I’m currently working on [yBully](https://github.com/yBullyy). -->
@@ -29,28 +29,18 @@ I am a final year student in Computer Science and Engineering (CSE) who loves to
 <!--### Spotify Playing 🎧
 [<img src="https://novatorem-chi.vercel.app/api/spotify-playing" alt="Shubh Spotify Playing" width="350" />](https://open.spotify.com/user/1avm481k8o6k84i73988n34b7?si=iuYsBSQURlSjXBgtfFXyEQ)
 -->
-
-<!-- --- -->
-
 <!-- <br /> -->
 
 ![](https://hit.yhype.me/github/profile?user_id=46997599)
 
 <img src="https://github-readme-stats.vercel.app/api?username=shahshubh&hide=prs&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahshubh&theme=dark" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahshubh&theme=dark" /> -->
 
-<!--
-**shahshubh/shahshubh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Let's Connect!
+- **Portfolio:** [shahshubh.github.io](https://shahshubh.github.io)
+- **LinkedIn:** [linkedin.com/in/shahshubh](https://www.linkedin.com/in/shahshubh/)
+- **Email:** shahshubh1010@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
